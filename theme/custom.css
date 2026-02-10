@@ -1,0 +1,88 @@
+/* =========================
+   فونت وزیر
+   ========================= */
+@font-face {
+    font-family: "Vazir";
+    src: url("fonts/Vazir-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Vazir";
+    src: url("fonts/Vazir-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* اعمال فونت وزیر به کل کتاب */
+html, body {
+    font-family: "Vazir", sans-serif !important;
+    line-height: 1.9;
+}
+
+/* عناوین */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+/* =========================
+   متن راست‌به‌چپ
+   ========================= */
+main {
+    direction: rtl;
+    text-align: right;
+}
+
+/* =========================
+   اصلاح جای پانویس با Flex
+   ========================= */
+a.footnote-reference {
+    display: inline-flex;          /* Flex برای شمارهٔ پانویس */
+    flex-direction: row;           /* جهت طبیعی: شماره بعد از متن */
+    align-items: baseline;
+    unicode-bidi: isolate;
+    direction: ltr;
+    margin-left: 0.15em;
+}
+
+a.footnote-reference sup {
+    font-size: 0.75em;
+    vertical-align: super;
+}
+
+/* =========================
+   کدها و code block
+   ========================= */
+code, pre, code span {
+    font-family: monospace !important;
+    direction: ltr;
+    text-align: left;
+    unicode-bidi: embed;
+}
+
+pre {
+    overflow-x: auto;
+    padding: 0.8em;
+    border-radius: 5px;
+}
+
+pre code {
+    line-height: 1.5;
+}
+
+/* تبدیل اعداد پانویس به فارسی */
+a.footnote-reference {
+    font-family: "Vazir", sans-serif !important;
+    font-variant-numeric: traditional; /* استفاده از اعداد فارسی */
+}
+
+
+a.footnote-reference sup {
+    font-family: "Vazir", sans-serif !important;
+    font-variant-numeric: traditional;
+    font-size: 0.75em;
+    vertical-align: super;
+}

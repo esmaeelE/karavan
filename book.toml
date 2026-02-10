@@ -1,0 +1,15 @@
+[book]
+title = "karavane eslam"
+authors = ["esmaeelE"]
+text-direction = "rtl"
+language = "fa"
+
+[output.html]
+additional-css = ["theme/custom.css"]
+default-theme = "rust"
+
+[output.html.print]
+enable = true
+
+# [output.pdf]
+
