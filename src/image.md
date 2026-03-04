@@ -3,7 +3,7 @@
 
 
 
-![22](images/22.png)
+![shkeikh_seif](images/sheikh_seif.png)
 
 
 ![lolahang](images/lolahang.png)
@@ -23,9 +23,9 @@
 
 ![aba](images/aba.png)
 
+
+
 ![araghchin](images/araghchin.png)
-
-
 
 
 ![chaghchoor](images/chaghchoor.png)
@@ -33,13 +33,12 @@
 
 
 
-![12](images/12.png)
+![vajebi](vajebi.png)
 
 
 
+![jahanam](images/jahanam.png)
 
-
-![33](images/33.png)
 
 
 
@@ -54,13 +53,15 @@
 
 
 
+
 ![kafan](images/kafan.png)
+
+
 ![khalal](images/khalal.png)
 
 
 
 ![kofar_seif](images/kofar_seif.png)
-
 
 
 
@@ -78,10 +79,8 @@
 
 ![front](images/front.png)
 
-
-![2](images/2.png)
-
+![cover2](images/cover2.png)
 
 
-![21](images/21.png)
+![back](images/back.png)
 
