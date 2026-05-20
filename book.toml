@@ -12,4 +12,3 @@ default-theme = "rust"
 enable = true
 
 # [output.pdf]
-
