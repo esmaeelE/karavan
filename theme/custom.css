@@ -37,6 +37,30 @@ main {
 }
 
 /* =========================
+   عرض محتوا
+   ========================= */
+.content main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* =========================
+   رنگ نام گوینده
+   ========================= */
+.content strong {
+    color: #5a3e1b;
+}
+
+/* =========================
+   ایتالیک صحنه‌ها
+   ========================= */
+.content em {
+    color: #777;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+/* =========================
    اصلاح جای پانویس
    ========================= */
 a.footnote-reference {
@@ -82,4 +106,37 @@ pre code {
    ========================= */
 ::selection {
     background: rgba(0, 100, 128, 0.25);
+}
+
+/* =========================
+   چاپ
+   ========================= */
+@media print {
+    h2 {
+        page-break-before: always;
+    }
+    .sidebar-scrollbox {
+        display: none;
+    }
+    .content main {
+        max-width: 100%;
+    }
+}
+
+/* =========================
+   موبایل
+   ========================= */
+@media (max-width: 768px) {
+    .content {
+        padding: 1em;
+    }
+    html, body {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 1.6em;
+    }
+    h2 {
+        font-size: 1.3em;
+    }
 }
