@@ -13,9 +13,11 @@
 ---
 
 [تصاویر](./image.md)
+[یادداشت‌ها](./notes.md)
+
+---
 
 [افسانه آفرینش](afsaneye_afarinesh.md)
 
-[یادداشت‌ها](./notes.md)
 
 

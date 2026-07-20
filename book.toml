@@ -7,7 +7,7 @@ language = "fa"
 
 [output.html]
 additional-css = ["theme/custom.css"]
-default-theme = "rust"
+default-theme = "light"
 playground = { editable = false }
 git-repository-url = "https://github.com/esmaeelE/karavan"
 
