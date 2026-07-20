@@ -33,7 +33,7 @@
 
 
 
-![vajebi](vajebi.png)
+![vajebi](images/vajebi.png)
 
 
 

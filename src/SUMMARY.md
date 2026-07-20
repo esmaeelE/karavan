@@ -14,6 +14,8 @@
 
 [افسانه آفرینش](afsaneye_afarinesh.md)
 
+[یادداشت‌ها](./notes.md)
+
 
 
 
