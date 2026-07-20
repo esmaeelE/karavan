@@ -1,14 +1,19 @@
 [book]
-title = "karavane eslam"
+title = "کاروان اسلام"
 authors = ["esmaeelE"]
+description = "طنزنامه صادق هدایت — بازنشر الکترونیکی"
 text-direction = "rtl"
 language = "fa"
 
 [output.html]
 additional-css = ["theme/custom.css"]
 default-theme = "rust"
+playground = { editable = false }
+git-repository-url = "https://github.com/esmaeelE/karavan"
+
+[output.html.fold]
+enable = true
+level = 1
 
 [output.html.print]
 enable = true
-
-# [output.pdf]

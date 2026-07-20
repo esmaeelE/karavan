@@ -1,86 +1,49 @@
 # تصاویر
 
+طرح‌های صادق هدایت از کاروان اسلام
 
+![شیخ سیف](images/sheikh_seif.png)
 
+![لولهنگ — آفتابه](images/lolahang.png)
 
-![shkeikh_seif](images/sheikh_seif.png)
+![مبال — جای قضای حاجت](images/mabal.png)
 
+![مسواک](images/mesvak.png)
 
-![lolahang](images/lolahang.png)
+![تنبان](images/tonban.png)
 
+![عبا](images/aba.png)
 
+![ارغچین](images/araghchin.png)
 
-![mabal](images/mabal.png)
+![چغچور](images/chaghchoor.png)
 
+![واجبی](images/vajebi.png)
 
+![جهنم](images/jahanam.png)
 
+![غلمان](images/gelman.png)
 
-![mesvak](images/mesvak.png)
+![حوری](images/hoori.png)
 
+![حوری و غلمان](images/hoori_gelman.png)
 
+![کفن](images/kafan.png)
 
-![tonban](images/tonban.png)
+![خلال](images/khalal.png)
 
-![aba](images/aba.png)
+![کفار سیف](images/kofar_seif.png)
 
+![نعل](images/naal.png)
 
+![روبند](images/rooband.png)
 
-![araghchin](images/araghchin.png)
-
-
-![chaghchoor](images/chaghchoor.png)
-
-
-
-
-![vajebi](images/vajebi.png)
-
-
-
-![jahanam](images/jahanam.png)
-
-
-
-
-![gelman](images/gelman.png)
-
-
-![hoori](images/hoori.png)
-
-
-
-![hoori_gelman](images/hoori_gelman.png)
-
-
-
-
-![kafan](images/kafan.png)
-
-
-![khalal](images/khalal.png)
-
-
-
-![kofar_seif](images/kofar_seif.png)
-
-
-
-![naal](images/naal.png)
-
-
-![rooband](images/rooband.png)
-
-
-![shane](images/shane.png)
-
+![شانه](images/shane.png)
 
 ---
 
+![جلد جلویی](images/front.png)
 
-![front](images/front.png)
+![جلد کتاب](images/cover2.png)
 
-![cover2](images/cover2.png)
-
-
-![back](images/back.png)
-
+![جلد پشتی](images/back.png)

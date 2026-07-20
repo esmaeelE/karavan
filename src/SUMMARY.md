@@ -10,12 +10,12 @@
 
 [حاشیه](./hashiye.md)
 
+---
+
 [تصاویر](./image.md)
 
 [افسانه آفرینش](afsaneye_afarinesh.md)
 
 [یادداشت‌ها](./notes.md)
-
-
 
 
